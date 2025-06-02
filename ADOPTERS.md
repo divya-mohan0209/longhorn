@@ -11,4 +11,4 @@
 ### Longhorn Adopters
 
 | Type | Name | Website | Use-Case |
-|:-|:-|:-|:-|
+|End-User|Child Rescue Coalition|https://abc.com|XYZ|
